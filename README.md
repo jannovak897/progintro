@@ -1,4 +1,5 @@
 # progintro test
 
-Under development
+Conflict test - version A
 Edited online on GitHub.
+
