@@ -1,5 +1,8 @@
 # progintro test
 
 Conflict test - version B
-Edited online on GitHub.
 
+Conflict test - version A
+
+Edited online on GitHub.
+Conflict test - resolved
